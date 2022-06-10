@@ -1,2 +1,2 @@
-# Fruits-Market
-Mevalar doʻkoni uchun kichik loyiha ishim
+#Fruits-Market
+I have a small project for a fruit shop
