@@ -1,2 +1,2 @@
 # Fruits-Market
-Mevalar sayti
+Mevalar doʻkoni uchun kichik loyiha ishim
